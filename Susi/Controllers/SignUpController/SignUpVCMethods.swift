@@ -1,7 +1,7 @@
 //
 //  SignUpVCMethods.swift
 //  Susi
-// my first commit
+// my second commit
 //  Created by Chashmeet Singh on 2017-06-04.
 //  Copyright © 2017 FOSSAsia. All rights reserved.
 //
